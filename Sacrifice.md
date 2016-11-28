@@ -8,17 +8,52 @@ There will never be a point in your time , in your life , where it’s the right
 There will never be a point (in your time) , (in your life) , where it's the right time (to do a great thing). 
 
 >> 從未有一個點，在你的時間中、生活中，哪裡是正確的時間去做美好的事。
+>>
 >> 如果你正在等待一個完美時刻或者是完美的時機，它不會發生。
+>>
 >> 你知道你必須做的事? 你必須去創造完美的時機，和完美的機運和完美的情境。
 
 So a lot of people become comfortable. They stop growing, they stop wanting anything, they become satisfied.
 
 >> 所以許多人變得習慣在舒適圈。
+>>
 >> 他們停止成長，停止想要任何東西，他們變得安於現狀。
 
 People getting ready to go to jobs that they don’t like, jobs that are making them sick. You see when you are not pursuing your goal, you are literally committing spiritual suicide. When you have some goal out here that you are stretching for and reaching for that takes you out of your comfort zone, you’ll find out some talents and abilities you have that you didn’t know you have.
 
+拆
+
+People getting ready to go to jobs that they don’t like, jobs that are making them sick. 
+
+> People getting to go to jobs (that they don't like), jobs (that are making them sick).
+>
+> People getting to go to jobs.
+>
+> jobs are making them sick.
+
+You see when you are not pursuing your goal, you are literally committing spiritual suicide.
+
+> You see (when you are not puruing your goal).
+> You are commiting spiritual suicide.
+
+When you have some goal out here that you are stretching for and reaching for that takes you out of your comfort zone, you’ll find out some talents and abilities you have that you didn’t know you have.
+
+> When you have some goal out here that you are stretching for and reaching for that takes you out of your comfort zone, you’ll find out some talents and abilities you have that you didn’t know you have.
+> 
+> When you have some goal out here that you are stretching for and reaching for that takes you out of your comfort zone
+> When you have goal out here (that you are stretching for and reaching for (that takes you out of your comfort zone))
+>
+> You will find out (some talents and abilities) you have (that you didn't know you have).
+
+>> 人們做著他們不喜歡的工作，讓他們生病的工作。
+>>
+>>
+
 When the messenger of misery visits you, what are you going to do? What will keep you in the game.
+
+> When the messenger of misery visits you,
+>
+> what are you going to do? What will keep you in the game.
 
 There are things that you think you’ll never need to know. That you may only need to know one time in your life, but that could save your life because you had that knowledge.
 
