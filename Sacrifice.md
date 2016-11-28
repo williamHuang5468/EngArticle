@@ -1,17 +1,38 @@
 # [Sacrifice](https://www.youtube.com/watch?v=c0ZzN6hxdzo)
 
 - [Subtitle](http://www.mitchellroth.com/sacrifice-motivational-montage-with-les-brown-eric-thomas-ray-lewis/)
+
 There will never be a point in your time , in your life , where it’s the right time to do a great thing. If you’re waiting for that perfect perfect moment, that perfect timing, it’s not going to happen. You know what you have to do? You have to create the perfect time, and the perfect opportunity, and the perfect situation.
 
 拆解
 
 There will never be a point (in your time) , (in your life) , where it's the right time (to do a great thing). 
 
->> 從未有一個點，在你的時間中、生活中，哪裡是正確的時間去做美好的事。
+If you’re waiting for that perfect perfect moment, that perfect timing, it’s not going to happen. 
+
+> If you’re waiting (for that perfect perfect moment), (that perfect timing), it’s not going to happen. 
+>
+> If you are waiting for moment, 
+>
+> moment is not going to happen. 
+>
+> If you are verbing for something, something is not going to happen.
+> 
+> If you are waitting for someone, someone is going to happen.
+
+You know what you have to do? You have to create the perfect time, and the perfect opportunity, and the perfect situation.
+
+> You know (what you have to do)? You have to create the time.
+>
+> You have to create the time , and opportunity, and situation.
+>
+> You have to `verb` the nouns , and nouns, and nouns.
+
+>> 在你的生命中，從來沒有一個時間點是做美好事情的絕佳時刻。
 >>
 >> 如果你正在等待一個完美時刻或者是完美的時機，它不會發生。
 >>
->> 你知道你必須做的事? 你必須去創造完美的時機，和完美的機運和完美的情境。
+>> 你知道你必須做什麼事? 你必須去創造完美的時機，和完美的機運和完美的情境。
 
 So a lot of people become comfortable. They stop growing, they stop wanting anything, they become satisfied.
 
@@ -56,6 +77,24 @@ When the messenger of misery visits you, what are you going to do? What will kee
 > what are you going to do? What will keep you in the game.
 
 There are things that you think you’ll never need to know. That you may only need to know one time in your life, but that could save your life because you had that knowledge.
+
+> There are things (that you think you’ll never need to know). 
+>
+> you think you will never need to know.
+> 
+> There are things that you think ..
+>
+> That you may only need to know one time in your life, but that could save your life because you had that knowledge.
+> 
+> That you may only need to know one time (in your life), 
+>
+> That you may need to know one time.
+> 
+> but that could save your life because you had that knowledge.
+>
+> but that could save your life
+>
+> because you had that knowledge.
 
 Unless you attempt to do something beyond that, which you’ve already mastered, you will never grow. What is it that you looked at, at some point in time and you decided that you couldn’t do it, that you talk yourself out of it.
 
