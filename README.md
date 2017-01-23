@@ -2,6 +2,7 @@
 
 ## Resource Pool
 
+- [Ask HN: What inspires you to persevere through adversity?](https://news.ycombinator.com/item?id=13454699)
 - [Speaker](https://www.youtube.com/watch?v=c0ZzN6hxdzo)
 - [Ted-ED]
 - [English Sentence](English Sentence.md)
@@ -10,3 +11,4 @@
     - [The Sentence](https://www.youtube.com/watch?v=4dr5lN1jqRE)
     - [The Paragraph](https://www.youtube.com/watch?v=0IFDuhdB2Hk&t=105s)
 - [Introduction They say , I say](https://www.youtube.com/watch?v=2s8SWS-SZDw)
+
